@@ -36,13 +36,6 @@ Spendify features user email authentication, which adds an extra layer of securi
 
 ## GIF
 
-- **Add Funds**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/add%20funds.gif?raw=true)
-
-___________________________________________________________________
-
-
 - **Need Category Autopay**
 
 ![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/need%20autopay.gif?raw=true)
