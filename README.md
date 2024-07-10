@@ -1,6 +1,6 @@
 
 # Spendify
-![Logo]([https://github.com/nick-bytes/](https://github.com/nick-bytes/spendify/blob/main/assets/app_icon.jpg)
+![Logo]([https://github.com/nick-bytes/](https://github.com/nick-bytes/spendify/blob/main/assets/app_icon.jpg))
 
 
 Spendify is a money management prototype app that allows users to split their income into customizable categories of "need," "expenses," and "savings." With features like autopay for bills, manual and planning tools for emergency funds and car purchases, Spendify helps users stay on top of their finances and reach their financial goals.
