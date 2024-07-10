@@ -1,9 +1,9 @@
 
-# Budgeto
+# Spendify
 ![Logo](https://github.com/tejasbadone/budgeto/blob/main/assets/app_icon.png?raw=true)
 
 
-Budgeto is a money management prototype app that allows users to split their income into customizable categories of "need," "expenses," and "savings." With features like autopay for bills, manual and planning tools for emergency funds and car purchases, Budgeto helps users stay on top of their finances and reach their financial goals.
+Spendify is a money management prototype app that allows users to split their income into customizable categories of "need," "expenses," and "savings." With features like autopay for bills, manual and planning tools for emergency funds and car purchases, Budgeto helps users stay on top of their finances and reach their financial goals.
 
 Budgeto is a comprehensive money management app designed to help users take control of their finances. With Budgeto, users can easily split their income into customizable categories, including "need," "expenses," and "savings." The app's default settings allocate 50% to needs, 30% to expenses, and 20% to savings, but users can adjust these percentages as needed to suit their individual financial goals.
 
